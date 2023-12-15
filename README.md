@@ -13,3 +13,12 @@ Clone the repository to your local machine:
   ```
 
    Replace `yourusername` with your actual GitHub username.
+
+## Copyright and Licensing Information
+
+© 2023 Lauri Talvitie
+
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+
+## Contact information
+lauri.talvitie@utu.fi
